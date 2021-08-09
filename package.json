@@ -1,0 +1,23 @@
+{
+  "name": "starboard-challenge-plugin",
+  "version": "0.1.0",
+  "description": "A plugin to convert a starboard notebook into a programming challenge.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unhott/starboard-challenge-plugin.git"
+  },
+  "author": "Aaron M",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/unhott/starboard-challenge-plugin/issues"
+  },
+  "homepage": "https://github.com/unhott/starboard-challenge-plugin#readme",
+  "dependencies": {
+    "starboard-notebook": "^0.13.1"
+  }
+}
